@@ -1,0 +1,42 @@
+
+
+.logo{
+  width:200px;
+  text-align:center;
+}
+
+
+
+h1{
+  color: lime;
+}
+
+header{
+ text-align: center;
+}
+
+form{
+  text-align: center;
+  background-color: lime;
+}
+
+.row-left{
+  display: inline-block;
+}
+
+main{
+  color: white;
+}
+
+body{
+  background-image: url('monopattini.jpg');
+  background-position: top;
+  background-repeat:  no-repeat;
+  background-size: 1900px 700px;
+}
+
+.container{
+  background: lime;
+  width: 250px;
+  height: 20px;
+}
